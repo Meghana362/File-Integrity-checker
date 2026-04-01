@@ -191,6 +191,6 @@ if __name__ == '__main__':
     os.makedirs('uploads', exist_ok=True)
     print("=" * 50)
     print("  File Integrity Checker - Flask Backend")
-    print("  Running at: http://127.0.0.1:5000")
+    print("  Running at: https://meghana362.github.io/File-Integrity-checker/")
     print("=" * 50)
     app.run(debug=True)
